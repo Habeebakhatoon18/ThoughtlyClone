@@ -5,22 +5,22 @@ import React from 'react';
 
 // Sample logos array with actual image URLs and links
 const logos = [
-  { id: 1, name: 'centraCom', src: '../logos/centracom.jpg', url: 'https://centracom.com/home' },
-  { id: 2, name: 'Ion Solar', src: '../logos/ionSolar.jpg', url: 'https://www.ionsolar.com/' },
-  { id: 3, name: 'Boardsi', src: '../logos/boardsi.jpg', url: 'https://boardsi.com/' },
-  { id: 4, name: 'compass', src: '../logos/compass.jpg', url: 'https://www.compass.com/' },
-  { id: 5, name: 'Guild Mortgage', src: '../logos/guild.jpg', url: 'https://guild.com/' },
-  { id: 6, name: 'Acehardware', src: '../logos/ace.jpg', url: 'https://www.acehandymanservices.com/' },
-  { id: 7, name: 'goHealth', src: '../logso/gohealth.jpg', url: 'https://www.gohealth.com/' },
-  { id: 8, name: 'RoathsChild', src: '../logso/rothschild.jpg', url: 'https://www.rothschildandco.com/' },
-  { id: 9, name: 'Nine.com.au', src: '../logos/nine.jpg', url: 'https://www.nine.com.au/' },
-  { id: 10, name: 'KW', src: '../logos/kw.jpg', url: 'https://kw.com' },
-  { id: 11, name: 'Farmer Insurance', src: '../logos/farmersHealth.jpg', url: 'https://www.farmers.com/' },
-  { id: 12, name: 'Cavaliers', src: '../logos/cavalier.jpg', url: 'https://www.nba.com/cavaliers/' },
-  { id: 13, name: 'Boatsetter', src: '../logos/boatsetter.jpg', url: 'https://www.boatsetter.com/' },
-  { id: 14, name: 'Pearson', src: '../logos/pearson.jpg', url: 'https://www.pearson.com/' },
-  { id: 15, name: 'rok', src: '../logos/rok,jpg', url: 'https://www.rok.biz/' },
-  { id: 16, name: 'Nomad', src: '../logos/nomad.jpg', url: 'https://nomadlease.com/' },
+  { id: 1, name: 'centraCom', src: '../public/logos/centracom.jpg', url: 'https://centracom.com/home' },
+  { id: 2, name: 'Ion Solar', src: '../public/logos/ionSolar.jpg', url: 'https://www.ionsolar.com/' },
+  { id: 3, name: 'Boardsi', src: '../public/logos/boardsi.jpg', url: 'https://boardsi.com/' },
+  { id: 4, name: 'compass', src: '../public/logos/compass.jpg', url: 'https://www.compass.com/' },
+  { id: 5, name: 'Guild Mortgage', src: '../public/logos/guild.jpg', url: 'https://guild.com/' },
+  { id: 6, name: 'Acehardware', src: '../public/logos/ace.jpg', url: 'https://www.acehandymanservices.com/' },
+  { id: 7, name: 'goHealth', src: '../public/logso/gohealth.jpg', url: 'https://www.gohealth.com/' },
+  { id: 8, name: 'RoathsChild', src: '../public/logso/rothschild.jpg', url: 'https://www.rothschildandco.com/' },
+  { id: 9, name: 'Nine.com.au', src: '../public/logos/nine.jpg', url: 'https://www.nine.com.au/' },
+  { id: 10, name: 'KW', src: '../public/logos/kw.jpg', url: 'https://kw.com' },
+  { id: 11, name: 'Farmer Insurance', src: '../public/logos/farmersHealth.jpg', url: 'https://www.farmers.com/' },
+  { id: 12, name: 'Cavaliers', src: '../public/logos/cavalier.jpg', url: 'https://www.nba.com/cavaliers/' },
+  { id: 13, name: 'Boatsetter', src: '../public/logos/boatsetter.jpg', url: 'https://www.boatsetter.com/' },
+  { id: 14, name: 'Pearson', src: '../public/logos/pearson.jpg', url: 'https://www.pearson.com/' },
+  { id: 15, name: 'rok', src: '../public/logos/rok,jpg', url: 'https://www.rok.biz/' },
+  { id: 16, name: 'Nomad', src: '../public/logos/nomad.jpg', url: 'https://nomadlease.com/' },
 ];
 
 const LogoSection = () => {

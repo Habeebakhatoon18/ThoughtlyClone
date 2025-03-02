@@ -22,10 +22,10 @@ const Index = () => {
 
           <div className="flex flex-col justify-center lg:justify-end">
             <CallCard />
-            <img className="w-fit mt-10" src="../start.png" alt="Start-image" />
+            <img className="w-fit mt-10" src="../public/start.png" alt="Start-image" />
           </div>
           <div>
-        <img src="../sidebar.png" className = "h-fit"alt="sidebar" />
+        <img src="../public/sidebar.png" className = "h-fit"alt="sidebar" />
         </div>
         </div>
         

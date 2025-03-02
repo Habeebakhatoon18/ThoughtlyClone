@@ -24,7 +24,7 @@ const CallCard = () => {
           INCOMING CALL
         </div>
         <div className="relative h-8 w-full">
-          <img src="../Public/callLines.png" alt="" />
+          <img src="../public/callLines.png" alt="" />
         </div>
         </div>
         
