@@ -27,7 +27,7 @@ const Layout = ({ children }) => {
 
 const App = () => {
   return (
-    <Router>
+    <Router  basename="/ThoughtlyClone">
       <Layout>
         <Routes>
           <Route
