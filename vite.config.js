@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
+  base: "/ThoughtlyClone/", 
   darkMode: ["class"],
   content: [
     "./pages/**/*.{ts,tsx}",
